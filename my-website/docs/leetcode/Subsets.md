@@ -37,3 +37,52 @@ Output: [[],[0]]
         return res;
     }
 ```
+
+Note you can also do the backtracking way, which works for both with duplicates and without duplicates (Subsets II)
+
+Subsets I
+```
+class Solution {
+public:
+    std::vector<std::vector<int> > subsets(std::vector<int> &nums) {
+		std::sort(nums.begin(), nums.end());
+        std::vector<std::vector<int> > res;
+		std::vector<int> vec;
+		subsets(res, nums, vec, 0);
+		return res;
+    }
+private:
+	void subsets(std::vector<std::vector<int> > &res, std::vector<int> &nums, std::vector<int> &vec, int begin) {
+		res.push_back(vec);
+		for (int i = begin; i != nums.size(); ++i) {
+			vec.push_back(nums[i]);
+			subsets(res, nums, vec, i + 1);
+			vec.pop_back();
+		}
+	}
+};
+```
+
+Subsets II
+```
+class Solution {
+public:
+    std::vector<std::vector<int> > subsetsWithDup(std::vector<int> &nums) {
+		std::sort(nums.begin(), nums.end());
+        std::vector<std::vector<int> > res;
+		std::vector<int> vec;
+		subsetsWithDup(res, nums, vec, 0);
+		return res;
+    }
+private:
+	void subsetsWithDup(std::vector<std::vector<int> > &res, std::vector<int> &nums, std::vector<int> &vec, int begin) {
+		res.push_back(vec);
+		for (int i = begin; i != nums.size(); ++i)
+			if (i == begin || nums[i] != nums[i - 1]) { 
+				vec.push_back(nums[i]);
+				subsetsWithDup(res, nums, vec, i + 1);
+				vec.pop_back();
+			}
+	}
+};
+```

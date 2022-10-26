@@ -58,7 +58,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `lol`,
+        copyright: `powered by autism hehe xd`,
       },
       prism: {
         theme: lightCodeTheme,

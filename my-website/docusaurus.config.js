@@ -59,7 +59,7 @@ const config = {
         style: 'dark',
         links: [
         ],
-        copyright: `powered by autism hehe xd`,
+        copyright: `powered by autism hehe xd (made by shawna monero)`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -7,3 +7,18 @@ The following and all related situations are strictly hypothetical in nature and
 
 DASH
 
+Python 2 to 3 migration
+
+PromQL migration
+
+Jira tickets / responding to feedback, making slides
+
+
+
+
+Feedback system
+Project Catalog
+k8s dash
+l5 deprecation
+
+oncall

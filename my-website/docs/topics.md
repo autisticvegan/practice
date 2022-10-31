@@ -10,3 +10,12 @@ Topics that companies are looking for:
 - Infra Management (backstage, Clutch, spotify, Lyft, 1 million others)
 - Ad tech
 - Trading
+- Idiomatic Rust, Tokio, other crates
+- Assessment Tech <-- mega pwnage
+- Data Quality (data sentinel, every company has a system like this, also startups)
+- Identity management / authn / authz (think transcend)
+- AI Security - Nightfall, Sentry, etc
+- Task / team management - clickup, etc
+- autonomous driving / flying / sailing / fruit-picking / weed whacking / picking
+- voice assistants / streaming video
+- 

@@ -87,6 +87,8 @@ See also:
 It turns out that this problem is the same as “FairWorkload” from TopCoder’s division 1 level 2 problem in SRM
 169.
 
+https://codeforces.com/blog/entry/52860
+
 
 ```
 func min(x, y int) int {

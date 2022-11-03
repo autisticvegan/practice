@@ -80,15 +80,15 @@ not require any extra space, unlike the DP solution which requires O(kN) space. 
 easier to code. Just be very careful while writing code for any variation of binary search, and think 
 through all the corner cases while you code.
 
+From:
 https://jackygao.wordpress.com/2014/09/04/the-painters-partition-problem-part-ii/
 
+See also:
+It turns out that this problem is the same as “FairWorkload” from TopCoder’s division 1 level 2 problem in SRM
+169.
+
+
 ```
-// You can edit this code!
-// Click here and start typing.
-package main
-
-import "fmt"
-
 func min(x, y int) int {
 	if x < y {
 		return x

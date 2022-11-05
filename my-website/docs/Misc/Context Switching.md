@@ -1,0 +1,4 @@
+- multitasking
+- interrupt handling
+- switching between user and kernel mode
+- rescheduling

@@ -1,0 +1,7 @@
+- Use a sharding service
+- Can also use consistent hashing
+- Leader vs Leaderless replication / hot shards
+- Geosharding / Edge computing CDN
+- Entity / relationship based sharding
+- Do we need to reshard often?
+- Ranged / dynamic sharding

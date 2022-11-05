@@ -1,0 +1,4 @@
+- TLB
+- not in ram, in disk
+- disadvantage - has to handle page interrupts and increased complexity
+- advantage - more efficient and dynamic linking, code and data sharing

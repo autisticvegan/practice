@@ -1,0 +1,2 @@
+- Kernel - ring zero - shares virtual address space, if kernel driver crashes, everything crashes
+- User - each app runs in isolation, so crashing limited

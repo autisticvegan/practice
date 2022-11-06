@@ -23,6 +23,10 @@ Mapping:
 - 9 -> x
 
 
+Note there is no `Frugality` in the list.
+
+"Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense."
+
 Tips
 
 Good points about examples:

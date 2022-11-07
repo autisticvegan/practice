@@ -12,6 +12,9 @@ type Car struct {
     Size 
 }
 
+type ParkingSpace struct {
+}
+
 func Park(car Car) Ticket {
 
 

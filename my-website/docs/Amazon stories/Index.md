@@ -1,6 +1,6 @@
 
 
-Example Behavioral Questions:
+#Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.
 2. Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?
 3. Give me an example of a time you used feedback to drive improvement or innovation. What was the situation and what action did you take?
@@ -11,23 +11,52 @@ Example Behavioral Questions:
 8. Tell me about a time you made a hard decision to sacrifice short term gain for a longer term goal.
 9. Tell me about a time when you realized you needed to have a deeper level of subject matter expertise to complete your assignment or task well.
 
-Mapping:
-- 1 -> x
+TODO: links to stories
+#Mapping:
+- 1 -> Customer Obsession, 
 - 2 -> x
 - 3 -> x
 - 4 -> x
 - 5 -> x
 - 6 -> x
-- 7 -> x
-- 8 -> x
-- 9 -> x
+- 7 -> InterviewSystem
+- 8 -> 
+- 9 -> Learn & B curious, 
 
 
 Note there is no `Frugality` in the list.
 
 "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense."
 
-Tips
+#Questions That Should Be Answered Each Time
+Situation:
+- What was the context/background for the situation you were in?
+- Where did it occur, when did it happen?
+- What was the goal?
+
+Task:
+- What was your role?
+- What were you trying to achieve?
+- Why was it important?
+- What were the risks/consequences if nothing happened?
+
+Action:
+- What did you personally own?
+- How did you do it? How did you influence the outcome?
+- Who else was involved?
+- What was the most significant obstacle you faced?
+
+Result:
+- How did you measure success for this project?
+- What results did you achieve? (METRICS OR DIE)
+- What trade-offs did you have to make to achieve this?
+- What did you learn or would have done differently?
+
+
+Followup:
+- 5 why's
+
+#Tips
 
 Good points about examples:
 - Taking responsibility for a shortfall (sensitive information logging).

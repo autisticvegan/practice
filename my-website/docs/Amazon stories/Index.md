@@ -52,7 +52,6 @@ Result:
 - What trade-offs did you have to make to achieve this?
 - What did you learn or would have done differently?
 
-
 Followup:
 - 5 why's
 

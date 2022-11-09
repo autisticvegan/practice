@@ -21,35 +21,45 @@ Note that
 
 
 
+    Imagine that all factories were actually singletons (both words sound like design patterns stuff, but it's not the case), i.e., capable of repairing only one robot. The robot with the minimal coordinate will be repaired at some factory (let's say, factory A), and then this factory can no longer be used. The next robot will be repaired at some other factory (let's say, factory B). However, for the optimal solution (assuming that coordinates of robots and factories are sorted), the factory B can not come before factory A (otherwise, we would use it for the first robot). Thus, for a sequence of robots (with the increasing coordinates), there is a sequence of singleton factories with non-decreasing coordinates (in my approach, singleton factories are allowed to have same coordinates).
 
-Solution 1: Top-down DP
 
-dp(i,j,k) means the cost that,
-to fix `robot[i]` and its following roberts
-with `factory[j]` already fix k robert.
+    Our task is to find such non-decreasing subsequence of singleton factories that minimizes the sum of distances between each robot and its assigned singleton factory. Here, DP comes into play. For, e.g. robots [9, 11, 99, 101] and singleton factories [7, 10, 14, 96, 100, 103], we should extract precisely those green distances (picture on the left) that result in the best total distance (picture on the right) for i+1 robots and j+1 factories. Thus, for each robot, we check whether each of subsequent factories (those coming after the last used one) would improve (minimize) the total sum.
 
-In each iteration of DP:
-If i == robot.length,
-means already fixed all robert,
-return cost = 0.
 
-If j == factory.length,
-means no more available factory
-return cost = inf.
-
-Option 1: Skip the current factory[i], res1 = dp(i, j + 1, 0)
-Option 2: Fix in the current factory[i] with cost abs(A[i] - B[j][0])
-Still need to fix robert[i + 1] and other roberts,
-so res2 = dp(i + 1, j, k + 1) + abs(A[i] - B[j][0])
-
-Finally return min(res1, res2) as the result.
-
-Complexity
-
-Time O(nmk)
-Space O(nmk)
-
+    Note that for each robot we should only check m-n+1 factories (all except those colored in red), where m is the number of factories and n is the number of robots. This is due to the fact that
+    ```
+        for the i-th robot, we should assign at least i-th factory and
+        for remaining x robots, we should have available at least x terminal (right-most) factories.
 ```
 
+    Finally, for non-singleton factories (those specified in the problem) with limit L, we replicate L singleton factories at the same position, namely, [[2,1], [3,4], [7,2]] -> [2,3,3,3,3,7,7], and use the discussed approach.
 
+
+
+```
+func minimumTotalDistance(robot []int, factory [][]int) int64 {
+
+    lenRobs := len(robot)
+    lenFacs := len(factory)
+
+    dp := make([]int64, lenRobs + 1)
+    for i := 0; i < len(dp); i++ {
+        dp[i] = 99999999999999
+    }
+    dp[0] = 0
+    sort.Slice(robot, func(i, j int) bool { return robot[i] < robot[j] })
+    sort.Slice(factory, func(i, j int) bool { return factory[i][0] < factory[j][0] })
+
+    for j := 0; j < lenFacs; j++ {
+        for k := 0; k < factory[j][1]; k++ {
+            for i := lenRobs - 1; i >= 0; i-- {
+                dp[i+1] = min(int64(abs(robot[i] - factory[j][0])) + dp[i], dp[i+1])      
+            }
+        }
+
+    } 
+
+    return dp[lenRobs]
+}
 ```

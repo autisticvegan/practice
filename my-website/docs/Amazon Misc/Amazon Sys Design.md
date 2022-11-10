@@ -6,7 +6,7 @@
 - Capacity estimates, justification of design choices, best practices for the choice you made
 3. Designing for Performance
 - Design for operational performance and plans for failure and can measure the results (e.g., metrics).
-1. Identify Shortcomings 
+4. Identify Shortcomings 
 - Identify potential shortcomings and tradeoffs with different designs (e.g., performance, fault, tolerance, dependencies).
 
 Deep Dives:

@@ -1,6 +1,6 @@
 
 
-#Example Behavioral Questions:
+# Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.
 2. Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?
 3. Give me an example of a time you used feedback to drive improvement or innovation. What was the situation and what action did you take?
@@ -12,7 +12,7 @@
 9. Tell me about a time when you realized you needed to have a deeper level of subject matter expertise to complete your assignment or task well.
 
 TODO: links to stories
-#Mapping:
+# Mapping:
 - 1 -> Customer Obsession, 
 - 2 -> x
 - 3 -> x
@@ -28,7 +28,7 @@ Note there is no `Frugality` in the list.
 
 "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense."
 
-#Questions That Should Be Answered Each Time
+# Questions That Should Be Answered Each Time
 Situation:
 - What was the context/background for the situation you were in?
 - Where did it occur, when did it happen?
@@ -55,7 +55,45 @@ Result:
 Followup:
 - 5 why's
 
-#Tips
+# Questions Interviewers may ask
+Situation and Task:
+- Where, when, and why?
+- Why is this important? What was the goal?
+- What was the initial scope of the project? What were the challenges?
+- What were the risks and potential consequences if nothing happened?
+- Why did you choose this story to illustrate xyz accomplishments?
+- What other stories can you think of that demonstrate xyz?
+- Could you come up with an example that is more recent?
+
+Action:
+- What did you do, who else was involved?
+- Deep prope functional expertise (5 whys)
+- Were you the key driver or project owner?
+- What was your biggest contribution? What unique value did you bring?
+- What was the most significant obstacle you faced?
+- Where was the division between what you did versus what the team did?
+- How did you set priorities or get manager buy in?
+- What decisions did you challenge? Why? How did you influence the right outcome?
+
+Results:
+- Things to think about: 
+- - cost savings, revenue generation
+- - Quantify volume, size, scale
+- - Percentage change, YoY improvements
+- - Time to market, implementation time, time savings
+- - Impact on the customer and team
+- - Quality improvements
+- Why did you choose to focus on these results? What other results were important?
+- You mentioned revenue, what percentage change is that year over year?
+- What trade-offs did you have to make to achieve this?
+- Tell me more about...the time it took, the customer impact, etc (5 whys)
+- What were the lessons learned?
+- How would you improve the process or result today?
+- How would you implement this at Amazon?
+- How did these results compare to your actual goals? (tie it back to goals stated in Situation)
+
+
+# Tips
 
 Good points about examples:
 - Taking responsibility for a shortfall (sensitive information logging).

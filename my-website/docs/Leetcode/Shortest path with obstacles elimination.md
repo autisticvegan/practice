@@ -1,8 +1,6 @@
 
 
 
-
-
 ```
 type Node struct {
     Row int

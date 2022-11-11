@@ -7,3 +7,4 @@ Questions to ask:
 - Strictly increasing or decreasing? Multiplication vs addition optimizations?
 - What time and space complexities are we targeting?
 - Any hints?
+- INCREMENTAL DEBUGGING

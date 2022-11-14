@@ -46,7 +46,6 @@ More Management based story:
 - uwu
 
 
-DASH
 Project Catalog
 k8s dash
 circuit breakers

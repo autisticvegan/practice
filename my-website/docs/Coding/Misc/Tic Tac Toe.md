@@ -15,6 +15,8 @@ func shuffle(input []int) []int {
 	rand.Shuffle(len(a), func(i, j int) { a[i], a[j] = a[j], a[i] })
 }
 
+// use division for rows, mod for cols, when putting everything in one row
+
 ```
 
 

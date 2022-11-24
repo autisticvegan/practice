@@ -46,29 +46,38 @@ More Management based story:
 - uwu
 
 
-Project Catalog
-k8s dash
-circuit breakers
-per gate overrides
+Project Catalog  
 
-note system / notes
-quicklinks
-clutch additions - working with rdd
+k8s dash  
 
-charting
-*Feedback system
+circuit breakers  
 
-Python 2 to 3 migration
-PromQL migration
-l5 deprecation
+per gate overrides  
 
-oncall
-Jira tickets / responding to feedback, making slides
-cetting people promoted
 
-decided to not add frontend config extensions
-metrics configs/extensions for prometheus etc
+note system / notes  
+
+quicklinks  
+
+clutch additions - working with rdd  
+
+
+
+charting  
+
+*Feedback system  
+
+Python 2 to 3 migration  
+PromQL migration  
+l5 deprecation  
+
+oncall  
+Jira tickets / responding to feedback, making slides  
+cetting people promoted  
+
+decided to not add frontend config extensions  
+metrics configs/extensions for prometheus etc  
 
 others:
-garbage collection?
-streaming logs?
+garbage collection?  
+streaming logs?  

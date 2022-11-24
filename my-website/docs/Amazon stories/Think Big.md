@@ -28,13 +28,15 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 # Project Catalog  
 
 ### Situation:
-- Engineers need a way to manage their projects, enabling delivery of code and config to production. Project Catalog allows engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure.
+- Engineers need a way to manage their projects, enabling delivery of code and config to production. Project Catalog allows engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure. It is also important to keep open source in mind, since other companies are interested such as Microsoft, Mercari, VW, and Expedia.
   
 ### Task:
 - Build a system in Clutch that solves these problems.
 
 ### Action:
 - Iterative design - low fidelity to high fidelity, MVP, iterate, designers
+- Use a submodule in Clutch to keep things open source
+- Come up with architecture
 - building protobufs
 - Building backend
 - building frontend

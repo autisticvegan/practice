@@ -6,7 +6,7 @@
 3. Give me an example of a time you used feedback to drive improvement or innovation. What was the situation and what action did you take?
 4. Tell me about a goal that you set that took a long time to achieve or that you are still working towards. How do you keep focused on the goal given the other priorities you have?
 5. Tell me about a time when you linked two or more problems together and identified an underlying issue. Were you able to find a solution?
-6. Give me an example of when you took an unpopular stance in a course/meeting with peers and your instructor/leader and you were the outlier. What was it, why did you feel strongly about it, and what did you do?
+6. Give me an example of when you took an unpopular stance in a course/meeting with peers and your instructor/leader and you were the outlier. What was it, why did you feel strongly about it, and what did you do? (conflict)
 7. Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was good enough. What was the situation?
 8. Tell me about a time you made a hard decision to sacrifice short term gain for a longer term goal.
 9. Tell me about a time when you realized you needed to have a deeper level of subject matter expertise to complete your assignment or task well.
@@ -123,33 +123,34 @@ Good points about examples:
 
 Taken from Scarlet Ink is the following excerpts from real interviews that were failures:
 
-> What factors would you consider when deciding which offer should win the buy-box on the retail website?
-> Maximize Profit
-> What else would you consider?
-> Volume of sales, conversion rate, margin, etc, but it all comes back to profit.
+> What factors would you consider when deciding which offer should win the buy-box on the retail website?  
+> Maximize Profit  
+> What else would you consider?  
+> Volume of sales, conversion rate, margin, etc, but it all comes back to profit.  
 
-> Since the site was down and you thought it was the cache, did you try clearing it?
-> Well I guess I could have, but I didn't want to risk being blamed for breaking something. It was much safer to wait for my manager to make the decision, it was above my pay grade.
+> Since the site was down and you thought it was the cache, did you try clearing it?  
+> Well I guess I could have, but I didn't want to risk being blamed for breaking something. It was much safer to wait for my manager to make the decision, it was above my pay grade.  
 
-> If you owned marketing for our kids tablets, what new things would you look into?
-> Well, I'd look at our creatives and A/B test which images work best.
-> Sure, but what other ways?
-> Buy facebook ads.
-> Anything else?
-> No.
+> If you owned marketing for our kids tablets, what new things would you look into?  
+> Well, I'd look at our creatives and A/B test which images work best.  
+> Sure, but what other ways?  
+> Buy facebook ads.  
+> Anything else?  
+> No.  
 
-> How did you know what you had delivered was what the customer wanted?
-> The product team accepted the feature, which meant we delivered their requirements.
-> But was it the right features? Was it the quality you wanted?
-> Well, it was good enough to be accepted, that was our goal.
+> How did you know what you had delivered was what the customer wanted?  
+> The product team accepted the feature, which meant we delivered their requirements.  
+> But was it the right features? Was it the quality you wanted?  
+> Well, it was good enough to be accepted, that was our goal.  
 
-> Then how did you fix the overcharging bug?
-> We didn't. It's annoying I guess, but no one noticed, and we make more money. It's a feature not a bug right?
+> Then how did you fix the overcharging bug?  
+> We didn't. It's annoying I guess, but no one noticed, and we make more money. It's a feature not a bug right?  
 
-> It sounds like you are more senior than all your co-workers. When they made all those mistakes, how did you help them?
-> I was available if they had questions. If they didn't want to ask for help, it's their own fault.
+> It sounds like you are more senior than all your co-workers. When they made all those mistakes, how did you help them?  
+> I was available if they had questions. If they didn't want to ask for help, it's their own fault.  
 
-> How do you manage your top performers differently?
-> I don't. I think everyone deserves equal treatment. I think everyone is great in their own way.
+> How do you manage your top performers differently?  
+> I don't. I think everyone deserves equal treatment. I think everyone is great in their own way.  
+
 Note I think this case is contreversial, but apparently at Amazon they want to focus on top performers, so it is important to give them MORE attention and the low performers less attention.
 

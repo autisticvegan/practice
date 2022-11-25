@@ -30,7 +30,7 @@ func shortestPath(grid [][]int, k int) int {
         return distance(0, 0, m, n)
     }
     
-    dirs := [][]int{{1,0}, {-1,0}, {0,1}, {0,-1}}
+    dirs := [][]int{ {1,0}, {-1,0}, {0,1}, {0,-1} }
     visited := make(map[string]bool)
     init := newNode(0, 0, m, n, k, 0)
     

@@ -20,7 +20,7 @@ func wallsAndGates(rooms [][]int)  {
 }
 
 func dfs(rooms [][]int, row, col, distance int) {
-    var DIRECTIONS = [][]int{{1, 0}, {0, 1}, {-1, 0}, {0, -1}}
+    var DIRECTIONS = [][]int{ {1, 0}, {0, 1}, {-1, 0}, {0, -1} }
     rooms[row][col] = distance
     
     for _, dir := range DIRECTIONS {

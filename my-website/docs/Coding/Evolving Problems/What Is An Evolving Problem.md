@@ -1,0 +1,1 @@
+An evolving problem is one where there are multiple stages building off one another - i.e. a basic calculator that first implements addition and subtraction, then adding in sqrt, other ops, etc.

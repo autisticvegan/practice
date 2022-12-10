@@ -96,3 +96,48 @@ func max(a, b int) int {
     return b
 }
 ```
+
+Can be done either DP or mathematical way of ternayr search
+
+Explanation from Votrubac about DP
+I'd say DP is the "go to" solution for the interview.
+
+Binary search needs some reasoning, and the weighted median is quite tricky.
+DP
+
+In the end, all elements of the array will be equal to some element n[i].
+
+    Well, you say, if our array is [2, 5], what if we can achieve min cost by making them 3 or 4?
+    For this to be the case, the cost for both 2 and 5 must be the same. But if the cost the same, we can achieve the same min cost if we pick 2 or 5.
+
+Let's call it a pivot.
+
+If we sort the array, elements on the left of the pivot will increase, and on the right - decrease.
+
+We go left-to-right in the sorted array, and compute cost for each pivot (cost_l[i]).
+
+Then we do the same right-to-left, compute cost (cost_r), track and the minimum total cost (min(cost_l[i], cost_r)).
+
+DP Way:
+```
+long long minCost(vector<int>& n, vector<int>& cost) {
+    vector<long long> id(n.size()), cost_l(n.size());
+    iota(begin(id), end(id), 0);
+    sort(begin(id), end(id), [&](int i, int j){
+        return n[i] < n[j];
+    });
+    for (long long i = 0, psum = 0; i < n.size() - 1; ++i) {
+        psum += cost[id[i]];
+        cost_l[i + 1] = cost_l[i] + psum * (n[id[i + 1]] - n[id[i]]);
+    }
+    long long res = cost_l.back(), cost_r = 0;
+    for (long long j = n.size() - 1, psum = 0; j > 0; --j) {
+        psum += cost[id[j]];
+        cost_r += psum * (n[id[j]] - n[id[j - 1]]);
+        res = min(res, cost_l[j - 1] + cost_r);
+    }
+    return res;
+}
+```
+
+

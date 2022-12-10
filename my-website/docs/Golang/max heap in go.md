@@ -1,6 +1,10 @@
 
 
 ```
+import (
+  "container/heap"
+)
+
 type MaxHeap []int
 
 func (h MaxHeap) Len() int           { return len(h) }
@@ -16,4 +20,7 @@ func (h *MaxHeap) Pop() interface{} {
   *h = (*h)[0:len(*h)-1]
 	return popped
 }
+
+// ... use heap.Init(arr) and heap.Push(arr, x)
+
 ```

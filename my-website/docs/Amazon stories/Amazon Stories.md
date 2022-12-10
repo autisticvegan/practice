@@ -152,5 +152,10 @@ Taken from Scarlet Ink is the following excerpts from real interviews that were 
 > How do you manage your top performers differently?  
 > I don't. I think everyone deserves equal treatment. I think everyone is great in their own way.  
 
-Note I think this case is contreversial, but apparently at Amazon they want to focus on top performers, so it is important to give them MORE attention and the low performers less attention.
+Note I think this case is contreversial, but apparently at Amazon they want to focus on top performers, so it is important to give them MORE attention and the low performers less attention.  
 
+Think about:  
+- reducing oncall  
+- rollbacks / safety  
+- feature devs dont need to know infra  
+- reduce blast radius  

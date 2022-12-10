@@ -1,16 +1,54 @@
+# LP  
+Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.  
 
-#LP
-Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+Disclaimer:  
+The following and all related situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken as matter of fact, but rather the seeds of ideas on how to pass the interviews. Project names may also be sometimes replaced with REDACTED.
+
+## Strong:
+Project Catalog  
+### Situation:
+REDACTED is the next generation interface for Lyft engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. Project Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure. 
+  
+### Task:
+- Design
+- Gather Requirements
+- Architecture
+- Implementation
+
+### Action:
+
+- Iterative design - low fidelity, high fidelity, MVP, iterate (figjams, figma, code)
+- Requirements - open source, submodule, used by companies
+- Achitecture has project manifests being read into topology cache, which feeds fe, fe talks to grafana, kibana, pagerduty, deploys, k8s, systems
+- Extending components from DASH (work smarter not harder) - Dash was meant for triaging, whereas PC is more about the service lifecycle
+- DASH had similarities - ingestion, centralizing views into a SPoG, proxying, UI elements
+- TODO - repurposing dash components
+- TODO - APIs
+- TODO - quicklinks
+- Differentiation between projet types - tool vs service vs library
+- Configuration of manifests
+- Deep links to other systems
+- Deploy system enhancements
+- External contributions (xfn across teams and orgs)
+
+### Result:
+- Happy customenrs
+- nps score etc
+- launch point discovering
 
 
-Disclaimer:
+### Reflection:
+- Platforms are great
+- Similar to OpsLevel or Cortex (startups focused on this topic)
+- User suggestions / feedback
+- Audit log card
+- Networking
 
-The following and all related situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken as matter of fact, but rather the seeds of ideas on how to pass the interviews.
+### 5 Whys:
+- uwu
 
-##Strong:
-
-
-
+### Q&A:
+- uwu
 
 
 ## Weak:
@@ -46,7 +84,7 @@ More Management based story:
 - uwu
 
 
-Project Catalog  
+ 
 
 k8s dash  
 
@@ -68,12 +106,10 @@ charting
 *Feedback system  
 
 Python 2 to 3 migration  
-PromQL migration  
-l5 deprecation  
+PromQL migration    
 
 oncall  
 Jira tickets / responding to feedback, making slides  
-cetting people promoted  
 
 decided to not add frontend config extensions  
 metrics configs/extensions for prometheus etc  

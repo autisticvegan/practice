@@ -243,7 +243,7 @@ code to generate test cases
 		y := rand.Intn(400)
 		timeToExplode := rand.Intn(200)
 		blastRadius := rand.Intn(100)
-		fmt.Printf("{%d, %d, %d, %d},\n", x, y, timeToExplode, blastRadius)
+		fmt.Printf("{ %d, %d, %d, %d},\n", x, y, timeToExplode, blastRadius)
 	}
 	fmt.Println("}")
 

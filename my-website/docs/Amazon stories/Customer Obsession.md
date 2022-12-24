@@ -22,9 +22,8 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 - Achitecture has project manifests being read into topology cache, which feeds fe, fe talks to grafana, kibana, pagerduty, deploys, k8s, systems
 - Extending components from DASH (work smarter not harder) - Dash was meant for triaging, whereas PC is more about the service lifecycle
 - DASH had similarities - ingestion, centralizing views into a SPoG, proxying, UI elements
-- TODO - repurposing dash components
-- TODO - APIs
-- TODO - quicklinks
+- APIs were reused - cacheing etc
+- Quicklinks - reused in DASH etc, components, images (talk about issue with webpack, using github as an image CDN because binary size, also s3 doesnt work because opensource/permissions), backend
 - Differentiation between projet types - tool vs service vs library
 - Configuration of manifests
 - Deep links to other systems
@@ -32,24 +31,25 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 - External contributions (xfn across teams and orgs)
 
 ### Result:
-- Happy customenrs
+- Happy customenrs (REALLY IMPORTANT)
 - nps score etc
 - launch point discovering
-
+- prevent SEVs and lead to faster resolution
+- Google analytics, DORA metrics
 
 ### Reflection:
 - Platforms are great
-- Similar to OpsLevel or Cortex (startups focused on this topic)
-- User suggestions / feedback
-- Audit log card
-- Networking
+- Similar to OpsLevel or Cortex.io (startups focused on this topic)
+- User suggestions / feedback are great
+- Audit log card - future improvement
+- Networking - added later
 
 ### 5 Whys:
-- uwu
-
-### Q&A:
-- uwu
-
+- Why did you use React/Typescript? - This is what was used in Clutch, it is industry standard, and convenient.
+- Why did you use gRPC? - same as above
+- Why topology cache? - started originally as a k8s thing, but grew into a life of its own
+- Did you use a database? yes
+- What was the hardest part? - customer obsession, github CDN
 
 ## Weak:
 More Management based story:

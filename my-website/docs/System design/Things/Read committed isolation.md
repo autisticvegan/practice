@@ -1,0 +1,3 @@
+- issues in multithreaded db implementations
+- Use row level locking to prevent dirty writes and dirty reads
+- for dirty reads can also use a side buffer to cache values

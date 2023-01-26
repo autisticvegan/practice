@@ -1,5 +1,7 @@
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
+IMPORTANT
+
 ## L5 Deprecation
 ### Situation:
   
@@ -14,6 +16,22 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 ### 5 Whys:
 
 ### Q&A:
+
+## PromQL Migration
+### Situation:
+  
+### Task:
+
+### Action:
+
+### Result:
+
+### Reflection:
+
+### 5 Whys:
+
+### Q&A:
+
 
 
 ## Spelling Error On Website:

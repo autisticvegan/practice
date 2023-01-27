@@ -1,0 +1,9 @@
+- to merge things i.e. google docs or db
+- can use operational transformation (OT)
+- conflict free replicated data types (CRDT, riak, TomTom GPS, teletype for atom)
+- centralized
+- consensus vs collaboration (one wins vs keep all)
+- apps that automerge allows: Trello / trellis, pixel pusher
+- underlying techs for automerge: webRTC, Hypermerge /  DAT Hypercore, Websockets
+- convergence guarantee - order might not be the same but the end result is
+- if order DOES matter, store it in a conflict buffer

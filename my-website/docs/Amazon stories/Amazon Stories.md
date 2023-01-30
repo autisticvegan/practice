@@ -11,17 +11,16 @@
 8. Tell me about a time you made a hard decision to sacrifice short term gain for a longer term goal.
 9. Tell me about a time when you realized you needed to have a deeper level of subject matter expertise to complete your assignment or task well.
 
-TODO: links to stories
 # Mapping:
-- 1 -> Customer Obsession, 
-- 2 -> x
-- 3 -> x
-- 4 -> x
-- 5 -> x
-- 6 -> x
-- 7 -> InterviewSystem
-- 8 -> 
-- 9 -> Learn & B curious, 
+- 1 -> Customer Obsession, learn and be curious
+- 2 -> bias for action, deliver results
+- 3 -> customer obsession, delivery results
+- 4 -> deliver results, dive deep / bias for action
+- 5 -> invent and simplify, customer obsession
+- 6 -> Have backbone, ownership
+- 7 -> Have Backbone, Insist on the highest standards
+- 8 -> insist on the highest standards, dive deep
+- 9 -> Learn & B curious, dive deep
 
 
 Note there is no `Frugality` in the list.

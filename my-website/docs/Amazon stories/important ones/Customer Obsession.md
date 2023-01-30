@@ -9,6 +9,7 @@ The following and all related situations are strictly hypothetical in nature and
 ## Strong:
 Project Catalog  
 ### Situation:
+Services follow a lifecycle.
 REDACTED is the next generation interface for Lyft engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. Project Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure. 
   
 ### Task:
@@ -88,8 +89,6 @@ More Management based story:
 
  
 
-k8s dash  
-
 circuit breakers  
 
 per gate overrides  
@@ -117,18 +116,6 @@ decided to not add frontend config extensions
 metrics configs/extensions for prometheus etc  
 
 Sev 
-
-others:
-garbage collection?  
-streaming logs?  
-
-
-
-
-
-
-
-
 
 // from think big, but that one is not used, so use these elsewhere
 

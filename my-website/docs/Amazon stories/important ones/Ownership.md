@@ -2,7 +2,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 
 IMPORTANT
 
-## L5 Deprecation
+## Volunteering for stuff
 ### Situation:
   
 ### Task:

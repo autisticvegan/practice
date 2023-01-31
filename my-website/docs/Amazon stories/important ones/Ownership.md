@@ -4,29 +4,49 @@ IMPORTANT
 
 ## Volunteering for stuff
 ### Situation:
-  
+- Many times, situations come up that are not well-defined nor owned by a specific team. They require volunteers to "make it happen". Examples of this were the L5 deprecation, Python Migration, and PromQL Migrations.
+
 ### Task:
+- Migrate codebases from one version of Python to another. Fix unit tests and edge cases.
+- Migrate from Wavefront to PromQL
+- Deprecate resources that were not used anymore
 
 ### Action:
+- Dig deep into why the builds and tests are failing - check them out and (i.e. why is this thing using Java? oh we need to upgrade the java build version too)
+- Learn some common patterns between WF and PQL (some could be automated, but some not)
+- Look at others for patterns, read the docs about all of it
+- Scan for unused resources, but requires some manual intervention (i.e. k8s reosources)
 
 ### Result:
+- Raise awareness of team and work (helpful for XFN future)
+- No more wasted resources
+- No more reliance on wavefront, which helps in SEV situations
+- Got a badge on my profile :), and migration ran smoothly
 
 ### Reflection:
+- Make sure you know your SMEs
+- Make sure you know your tracking tech (jira or whatever)
+- Automatic garbage collection is the future (especially k8s)
 
 ### 5 Whys:
 
 ### Q&A:
 
-## PromQL Migration
+## Feedback Tickets
 ### Situation:
-  
+- something about feedback tool / automated jira requests
+
 ### Task:
+
 
 ### Action:
 
+
 ### Result:
+nps / csat score
 
 ### Reflection:
+all about the data
 
 ### 5 Whys:
 

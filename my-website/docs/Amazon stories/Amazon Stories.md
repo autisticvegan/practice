@@ -1,4 +1,4 @@
-
+# Amazon Stories
 
 # Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.

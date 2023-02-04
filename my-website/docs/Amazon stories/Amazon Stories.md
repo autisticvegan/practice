@@ -1,5 +1,8 @@
 # Amazon Stories
 
+# Disclaimer:  
+All situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken necessarily as matter of fact. Project names may also be sometimes replaced with REDACTED.
+
 # Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.
 2. Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?

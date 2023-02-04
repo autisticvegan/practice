@@ -37,16 +37,25 @@ IMPORTANT
 - something about feedback tool / automated jira requests
 
 ### Task:
-
+- Need an organized way to collect feedback about an internal tool
 
 ### Action:
-
+- BE:
+- FE:
+- working with designer for icons
 
 ### Result:
-nps / csat score
+- nps / csat score
+- Extracted the components into a library which can be used by other tools, all they need is a db
+- hundreds of feature requests fulfilled
+
 
 ### Reflection:
-all about the data
+- all about the data
+- Next step would be apps or browser extensions with things like notification support, survey support, etc
+- h
+- h
+- h
 
 ### 5 Whys:
 

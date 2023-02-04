@@ -1,17 +1,16 @@
 # LP  
 Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.  
 
-IMPORTANT  
-
-Disclaimer:  
-The following and all related situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken as matter of fact, but rather the seeds of ideas on how to pass the interviews. Project names may also be sometimes replaced with REDACTED.
-
 ## Strong:
 Project Catalog  
 ### Situation:
 Services follow a lifecycle.
 REDACTED is the next generation interface for Lyft engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. Project Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure. 
-  
+- Risk and Conseq if nothing happened: developers waste time and leave company, even saving minutes is valuable
+- Why did I choose this story: IT has a focus on end users
+- 
+
+
 ### Task:
 - Design
 - Gather Requirements
@@ -34,8 +33,8 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 - External contributions (xfn across teams and orgs)
 
 ### Result:
-- Happy customenrs (REALLY IMPORTANT)
-- nps score etc
+- Happy customenrs (REALLY IMPORTANT) - slack messages
+- nps score and csat score
 - launch point discovering
 - prevent SEVs and lead to faster resolution
 - Google analytics, DORA metrics
@@ -99,15 +98,6 @@ note system / notes
 quicklinks  
 
 clutch additions - working with rdd  
-
-
-
-charting  
-
-*Feedback system  
-
-Python 2 to 3 migration  
-PromQL migration    
 
 oncall  
 Jira tickets / responding to feedback, making slides  

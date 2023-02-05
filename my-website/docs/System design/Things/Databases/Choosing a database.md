@@ -52,6 +52,14 @@
 ### Dynamodb
 - DynamoDB is optimized for high read loads, and may not perform well for high write loads. If your application requires a large number of writes per second, you may want to consider a database optimized for write-intensive workloads, such as Cassandra.
 
+### Vertica
+- huhu
+
+### DoltDB / Dolt (formerly Liquidata)
+- worse performance than most sql impls, but more developer friendly because its like git. Useful for configuration usecases which have outgrown YAML.
+
+
+
 ### CAP🧢
 `Consistency
     Every read receives the most recent write or an error.

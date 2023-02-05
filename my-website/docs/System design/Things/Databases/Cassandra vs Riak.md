@@ -1,4 +1,7 @@
-```Riak and Cassandra are both distributed NoSQL databases, but they have some important differences:
+```
+Warning, this was from ChatGPT lol:
+
+Riak and Cassandra are both distributed NoSQL databases, but they have some important differences:
 
     Data Model: Riak uses a key-value data model, while Cassandra uses a column-family data model.
 

@@ -8,7 +8,7 @@ IMPORTANT
 
 ### Task:
 - Migrate codebases from one version of Python to another. Fix unit tests and edge cases.
-- Migrate from Wavefront to PromQL for reliability and speed purposes (SEVs)
+- Migrate from Wavefront to PromQL for reliability and speed purposes (SEVs). Metrics were being delayed and the CTO made the executive decision to fix it. The question was, whose responsibility was it? Part of it was to be done by volunteers.
 - Deprecate resources that were not used anymore after an acquisition (not even remotely related to my job, team, or org, but its ok)
 
 ### Action:
@@ -18,6 +18,7 @@ IMPORTANT
 - Hundreds of dashboards / alarms were migrated. There was some automation involved as well (which could be used by others)
 - Look at others for patterns, read the docs about all of it
 - Scan for unused resources, but requires some manual intervention (i.e. k8s reosources)
+- Ruthlessly prioritize to keep the main projects moving forward along with the volunteer projects.
 
 ### Result:
 - Raise awareness of team and work (helpful for XFN future)
@@ -27,7 +28,7 @@ IMPORTANT
 - Got a badge on my profile :), and migration ran smoothly
 - Even being on leave for 3 months I still had more tickets completed according to JIRA for 2022
 - The tradeoffs here are spending time and effort upfront for long-term benefits.
-- Today there could be even more automation in migrations.
+- Today there could be even more automation in migrations. We did reach the goal, but it could always be faster and less error-prone (less manual).
 
 ### Reflection:
 - Make sure you know your SMEs - Network is your networth (CRINGE) - volunteering is always a learning opportunity

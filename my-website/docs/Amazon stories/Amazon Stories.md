@@ -1,7 +1,12 @@
 # Amazon Stories
 
 # Disclaimer:  
-All situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken necessarily as matter of fact. Project names may also be sometimes replaced with REDACTED.
+All situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken necessarily as matter of fact. Project names, company names, any names, may also be sometimes replaced with REDACTED or random letters.
+
+# Things to remember
+1. Generally don't talk for more than 90 seconds straight. Pause and let your interviewer ask questions. Ask them directly - "Should I continue?"
+2. Control your vocab. "THIS WAS DIFFICULT BECAUSE". Reinforce the difficulty and complexity that you faced, don't necessarily gloss over details. Numbers, Numbers, Numbers. 
+3. Think about alternatives to what you did (journey of discovery). Could you have merged tools together? Could you build a completely new tool? Could you use an off the shelf solution? Could you use an open-source project? Could you have changed documentation to not have to build something else? Think about how much time you spent to have a minimal solution.
 
 # Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.
@@ -120,41 +125,6 @@ Good points about examples:
 - The candidate worked to improve processes in their team and extended it to other teams involved (4 teams).
 - The candidate didn't stick to the status quo but pushed back and found a solution to facilitate development and testing in all teams, unblocking everybody and reducing delays.
 - The candidate oversaw the implementation from end to end, as they supported other teams to implement the mocks and gathered metrics to see the improvement worked well.
-
-# What NOT to say
-
-Taken from Scarlet Ink is the following excerpts from real interviews that were failures:
-
-> What factors would you consider when deciding which offer should win the buy-box on the retail website?  
-> Maximize Profit  
-> What else would you consider?  
-> Volume of sales, conversion rate, margin, etc, but it all comes back to profit.  
-
-> Since the site was down and you thought it was the cache, did you try clearing it?  
-> Well I guess I could have, but I didn't want to risk being blamed for breaking something. It was much safer to wait for my manager to make the decision, it was above my pay grade.  
-
-> If you owned marketing for our kids tablets, what new things would you look into?  
-> Well, I'd look at our creatives and A/B test which images work best.  
-> Sure, but what other ways?  
-> Buy facebook ads.  
-> Anything else?  
-> No.  
-
-> How did you know what you had delivered was what the customer wanted?  
-> The product team accepted the feature, which meant we delivered their requirements.  
-> But was it the right features? Was it the quality you wanted?  
-> Well, it was good enough to be accepted, that was our goal.  
-
-> Then how did you fix the overcharging bug?  
-> We didn't. It's annoying I guess, but no one noticed, and we make more money. It's a feature not a bug right?  
-
-> It sounds like you are more senior than all your co-workers. When they made all those mistakes, how did you help them?  
-> I was available if they had questions. If they didn't want to ask for help, it's their own fault.  
-
-> How do you manage your top performers differently?  
-> I don't. I think everyone deserves equal treatment. I think everyone is great in their own way.  
-
-Note I think this case is contreversial, but apparently at Amazon they want to focus on top performers, so it is important to give them MORE attention and the low performers less attention.  
 
 Think about:  
 - reducing oncall  

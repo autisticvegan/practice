@@ -5,11 +5,10 @@ Leaders start with the customer and work backwards. They work vigorously to earn
 Project Catalog  
 ### Situation:
 Services follow a lifecycle.
-REDACTED is the next generation interface for Lyft engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. Project Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure. 
+REDACTED is the next generation interface for Lyft engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. Project Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure.  It is also important to keep open source in mind, since other companies are interested such as Microsoft, Mercari, VW, and Expedia.
+
 - Risk and Conseq if nothing happened: developers waste time and leave company, even saving minutes is valuable
 - Why did I choose this story: IT has a focus on end users
-- 
-
 
 ### Task:
 - Design
@@ -19,9 +18,13 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 
 ### Action:
 
+- building protobufs
+- Building backend
+- building frontend
 - Iterative design - low fidelity, high fidelity, MVP, iterate (figjams, figma, code)
 - Requirements - open source, submodule, used by companies
 - Achitecture has project manifests being read into topology cache, which feeds fe, fe talks to grafana, kibana, pagerduty, deploys, k8s, systems
+- Stored stuff in topology cache - what were the tradeoffs? Ease of use, familiarity, making things intuitive for future engineers, keeping things as Open-sourceable as possible 
 - Extending components from DASH (work smarter not harder) - Dash was meant for triaging, whereas PC is more about the service lifecycle
 - DASH had similarities - ingestion, centralizing views into a SPoG, proxying, UI elements
 - APIs were reused - cacheing etc
@@ -33,18 +36,22 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 - External contributions (xfn across teams and orgs)
 
 ### Result:
-- Happy customenrs (REALLY IMPORTANT) - slack messages
+- Happy customenrs (REALLY IMPORTANT) - slack messages, can talk about how this is differentiated from D as well
 - nps score and csat score
-- launch point discovering
 - prevent SEVs and lead to faster resolution
-- Google analytics, DORA metrics
+- Positive feedback from engineers via slack about many topics - ex. during an outage they are able to more effectively debug due to things like oncall. Over 50% of engineering using it at least once a month
+- The links were effective at getting users to other parts of Clutch as well (Google analytics, DORA metrics), launch point discovering
+- This is about building a platform for others to build on
 
 ### Reflection:
 - Platforms are great
 - Similar to OpsLevel or Cortex.io (startups focused on this topic)
 - User suggestions / feedback are great
-- Audit log card - future improvement
+- Audit log card - future improvement / audit log stuff
 - Networking - added later
+- Migration card - replace mode reports
+- Could have some sort of tagging system / metadata system for projects
+- What could be improved? Estimation, method of doing tickets, customer video interviews before design (formal questions with UX researcher)
 
 ### 5 Whys:
 - Why did you use React/Typescript? - This is what was used in Clutch, it is industry standard, and convenient.
@@ -52,6 +59,15 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 - Why topology cache? - started originally as a k8s thing, but grew into a life of its own
 - Did you use a database? yes
 - What was the hardest part? - customer obsession, github CDN
+- Why use gRPC and not JSON? - speed, weight
+- Why clutch? Familiarity
+- Why open source? - Maintain higher standard of quality, and reuse in other places, also its good just like DEI
+
+### Q&A:
+- What was the scalability of this system? - it didn't matter since its less than 1 QPS. However it can easily scale to a very large number of services (think about ingestion of aggrefest). There are also built in mechanisms for when external APIs fail.
+- Did this system use a database? - Yes, audit logs, topocache
+
+
 
 ## Weak:
 More Management based story:
@@ -135,16 +151,14 @@ Thinking small is a self-fulfilling prophecy. Leaders create and communicate a b
 
 ### 5 Whys:
 - uwu
-- 
 
 ### Q&A:
 - uwu
 
-
 # Project Catalog  
 
 ### Situation:
-- Engineers need a way to manage their projects, enabling delivery of code and config to production. Project Catalog allows engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure. It is also important to keep open source in mind, since other companies are interested such as Microsoft, Mercari, VW, and Expedia.
+- Engineers need a way to manage their projects, enabling delivery of code and config to production. Project Catalog allows engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure.
 
 NO MORE YAML
 
@@ -154,31 +168,3 @@ NO MORE YAML
 ### Action:
 - Iterative design - low fidelity to high fidelity, MVP, iterate, designers
 - Use a submodule in Clutch to keep things open source - open source is important and keeps quality bar higher - also opensourced certain components (abstraction vs MVP)
-- Come up with architecture
-- building protobufs
-- Building backend
-- building frontend
-- modifying the topology cache with certain funcs
-- Liasoned and worked with other teams such as Networking (Envoy), Observability (APIs), and Deploys (APIs)
-
-### Result:
-- Positive feedback from engineers via slack about many topics - ex. during an outage they are able to more effectively debug due to things like oncall. Over 50% of engineering using it at least once a month
-- The links were effective at getting users to other parts of Clutch as well
-- This is about building a platform for others to build on
-
-### Reflection:
-- Could add Audit Log stuff
-- User suggestions (user feedback is important!)
-- Migration progress tracking
-- What could be improved? Estimation, method of doing tickets, customer video interviews before design (formal questions with UX researcher)
-
-### 5 Whys:
-- Why use gRPC and not JSON? - speed, weight
-- Why clutch? Familiarity
-- Why open source? - Maintain higher standard of quality, and reuse in other places, also its good just like DEI
-- 
-
-### Q&A:
-- What was the scalability of this system? - it didn't matter since its less than 1 QPS. However it can easily scale to a very large number of services (think about ingestion of aggrefest). There are also built in mechanisms for when external APIs fail.
-- Did this system use a database? - Yes, audit logs, topocache
-- 

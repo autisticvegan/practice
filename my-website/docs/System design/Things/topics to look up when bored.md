@@ -18,4 +18,4 @@ Topics that companies are looking for:
 - Task / team management - clickup, etc
 - autonomous driving / flying / sailing / fruit-picking / weed whacking / picking
 - voice assistants / streaming video
-- 
+- how does unity interface with nothing forever stream?

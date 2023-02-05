@@ -8,15 +8,3 @@
 - Design for operational performance and plans for failure and can measure the results (e.g., metrics).
 4. Identify Shortcomings 
 - Identify potential shortcomings and tradeoffs with different designs (e.g., performance, fault, tolerance, dependencies).
-
-Deep Dives:
-- Talent
-- Obs
-- Authz
-- Authn
-- Infrastructure Management
-- Platform building
-- Service Catalog
-- Deploys
-- Operational Excellence
-- APIs / Github rate limiting

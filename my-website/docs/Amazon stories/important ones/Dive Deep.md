@@ -3,10 +3,10 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 
 ## STORY 1: Notes System
 ### Situation:
--
+- I noticed a common feedback theme for workflows in C was users needing more information or being confused about what things meant. I could have just added a docs link to each page, but I wanted to come up with a better solution.
   
 ### Task:
-- 
+- I made a notes system 
 
 ### Action:
 - 
@@ -23,9 +23,9 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 ### Q&A:
 - uwu
 
-## STORY 2: FIND ANOTHER STORY
+## STORY 2: Interview Overhaul
 ### Situation:
--
+- The interview system at L had not been improved in almost 10 years. It needed a lot of improvements.
   
 ### Task:
 - 
@@ -39,9 +39,8 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 ### Reflection:
 - 
 ### 5 Whys:
-- uwu
 - 
 
 ### Q&A:
-- uwu
+- 
 

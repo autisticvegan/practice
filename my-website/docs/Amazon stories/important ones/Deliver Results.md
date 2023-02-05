@@ -2,7 +2,7 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 
 IMPORTANT
 
-## K8s Dash
+## STORY 1: K8s Dash
 ### Situation:
   
 ### Task:
@@ -25,7 +25,7 @@ IMPORTANT
 ### Q&A:
 
 
-## Adding a link to an internal tool to drive huge user adoption
+## STORY 2: Adding a link to an internal tool to drive huge user adoption
 ### Situation:
 There are 2 internal tools for this situation at Lyft, one for deploys, and one for infrastructure 
 

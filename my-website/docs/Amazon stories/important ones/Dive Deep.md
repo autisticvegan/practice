@@ -43,4 +43,3 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 
 ### Q&A:
 - 
-

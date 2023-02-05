@@ -1,10 +1,13 @@
 
 
-1. Functional requirements
+1. Functional requirements (key requirements, growth scenarios, constraints, maintenance)
 2. Capacity Estismates
 3. API Design (endpoints)
 4. Database Schema
 5. Architectural Design
+6. Reflect about failure scenarios and (operational performance) ond tradeoffs (perf, fault toler, and dependencies)
+
+- FCADAR
 
 Things to think about:
 1. Availability vs Consistency
@@ -17,3 +20,4 @@ Things to think about:
 8. Metadata 
 9. Consistent Hashing
 10. SPoF
+

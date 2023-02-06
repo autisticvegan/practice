@@ -14,21 +14,9 @@
 - Deploys
 - APIs / Github rate limiting
 
-circuit breakers  
+- Design proximity based service
 
-per gate overrides  
-
-
-note system / notes  
-
-quicklinks  
-
-clutch additions - working with rdd  
-
-oncall  
-Jira tickets / responding to feedback, making slides  
-
+clutch additions - working with rdd  (intern liason)
+Jira tickets / responding to feedback, making 
 decided to not add frontend config extensions  
-metrics configs/extensions for prometheus etc  
-
 Sev fixing - oncall docs, more tests, etc, codecov

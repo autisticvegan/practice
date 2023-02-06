@@ -33,8 +33,8 @@ There are 2 internal tools for this situation at Lyft, one for deploys, and one 
 Grow DAU, MAU, etc for tool because OKRs measured it. The idea is that the more useful the tool is, the more users would use it, as a total of Lyft's engineering population. There is also the idea of re-using work as much as possible and as wide as possible for maximum possible benefit.
 
 ### Action:
-Added a link to one tool from another.
-I personally owned the box that had links.
+- Added a link to one tool from another.
+- I personally owned the box that had links.
 The reality is that there was no significant obstacles.
 
 ### Result:
@@ -44,10 +44,9 @@ The reality is that there was no significant obstacles.
 
 ### Reflection:
 - A lot of people won't read emails or slack messages, which is understandable
-- Sometimes small things can have huge impact
+- Sometimes small things can have huge impact - try to go for 100x bets, as Bezos would say.
 
 ### 5 Whys:
-
 - 
 
 ### Q&A:

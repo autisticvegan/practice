@@ -41,8 +41,6 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 ### Q&A:
 - What would have happened if you didn't do this? There would have been wasted resources but no one would have noticed for a while. Ideally, the acquisition would include a deprecation of resources, but the reality is that sometimes things fall through the cracks, so that's where I come in, I do jobs other people don't want to do (cringe).
 
-
-
 ## Feedback Tickets
 ### Situation:
 - something about feedback tool / automated jira requests
@@ -72,8 +70,6 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 
 ### Q&A:
 
-
-
 ## Spelling Error On Website:
 ### Situation:
 - I noticed a spelling error on a public facing Lyft website for safety. It had been there for years and apparently no one else cared.
@@ -92,7 +88,6 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 
 ### 5 Whys:
 - uwu
-- 
 
 ### Q&A:
 - uwu

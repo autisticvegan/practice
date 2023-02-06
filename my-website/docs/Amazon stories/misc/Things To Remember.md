@@ -1,0 +1,4 @@
+# Things to remember
+1. Generally don't talk for more than 90 seconds straight. Pause and let your interviewer ask questions. Ask them directly - "Should I continue?"
+2. Control your vocab. "THIS WAS DIFFICULT BECAUSE". Reinforce the difficulty and complexity that you faced, don't necessarily gloss over details. Numbers, Numbers, Numbers. 
+3. Think about alternatives to what you did (journey of discovery). Could you have merged tools together? Could you build a completely new tool? Could you use an off the shelf solution? Could you use an open-source project? Could you have changed documentation to not have to build something else? Think about how much time you spent to have a minimal solution.

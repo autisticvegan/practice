@@ -1,9 +1,3 @@
-- merge project catalog shit in customer obsess
-- finish deliver results
-- get more docs about feedback system
-- finish have backbone stories
-- finish insist on the highest standards
-- search around for invent and simplify, if cant fnid a good one do pgo
 - learn and be curious - talk about automated fe testing
 - go through the training materials 1 las time
 
@@ -15,12 +9,7 @@
 
 - Deep Dives:
 - Talent
-- Obs
-- Authz
-- Authn
 - Infrastructure Management
 - Platform building
-- Service Catalog
 - Deploys
-- Operational Excellence
 - APIs / Github rate limiting

@@ -3,11 +3,6 @@
 # Disclaimer:  
 All situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken necessarily as matter of fact. Project names, company names, any names, may also be sometimes replaced with REDACTED or random letters.
 
-# Things to remember
-1. Generally don't talk for more than 90 seconds straight. Pause and let your interviewer ask questions. Ask them directly - "Should I continue?"
-2. Control your vocab. "THIS WAS DIFFICULT BECAUSE". Reinforce the difficulty and complexity that you faced, don't necessarily gloss over details. Numbers, Numbers, Numbers. 
-3. Think about alternatives to what you did (journey of discovery). Could you have merged tools together? Could you build a completely new tool? Could you use an off the shelf solution? Could you use an open-source project? Could you have changed documentation to not have to build something else? Think about how much time you spent to have a minimal solution.
-
 # Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.
 2. Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?
@@ -99,35 +94,3 @@ Results:
 - How would you implement this at Amazon?
 - How did these results compare to your actual goals? (tie it back to goals stated in Situation)
 
-
-# Tips
-
-Good points about examples:
-- Taking responsibility for a shortfall (sensitive information logging).
-- Represents information transparently (engaged with the team and also with security, didn't try and hide anything).
-- Honored commitments and tracked items to completion.
-- Was transparent with the team, although the responded led efforts they were inclusive and asked the team for feedback and ideas.
-- No finger-pointing about who caused the issue, the focus was on getting it fixed.
-
-- They wanted to build a good relationship with the team, as they were new, so they made an extra effort to produce a better solution.
-- They asked several people for feedback.
-- They listened to their team lead feedback, recognized their mistake (trying to impress instead of focusing on the solution or maintainability of the code) and accepted it.
-- The candidate later demonstrated that feedback and lessons learned stuck with them and applied them on other occasions. 
-- Without being asked, they acknowledge another mistake: they overthink things and demonstrated they are actively working to improve them.
-
-- Even though they saw the deadline was too tight, they tried to find ways of delivering the project on time with the right quality (focused on simplifying and removing already covered items).
-- They communicated and agreed to all simplifications with the project owner. 
-- They decided to act as the bridge with the project owner and share the status of the project.
-
-- The candidate went beyond their day-to-day work to learn new technologies (front-end, React, NodeJS). Doing it in their free time and even using it to help the other team select the best architecture for the refactor.
-- They went out of their comfort zone, learned new things (external technology and front-end architectures in the company) and applied them to practice.
-
-- The candidate worked to improve processes in their team and extended it to other teams involved (4 teams).
-- The candidate didn't stick to the status quo but pushed back and found a solution to facilitate development and testing in all teams, unblocking everybody and reducing delays.
-- The candidate oversaw the implementation from end to end, as they supported other teams to implement the mocks and gathered metrics to see the improvement worked well.
-
-Think about:  
-- reducing oncall  
-- rollbacks / safety  
-- feature devs dont need to know infra  
-- reduce blast radius  

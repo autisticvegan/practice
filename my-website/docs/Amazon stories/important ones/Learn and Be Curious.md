@@ -4,7 +4,7 @@ Secret Sauce
 
 IMPORTANT
 
-Python migration
+automated FE testing
 
 Situation:
 

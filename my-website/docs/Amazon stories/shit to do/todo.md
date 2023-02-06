@@ -13,3 +13,22 @@
 - Platform building
 - Deploys
 - APIs / Github rate limiting
+
+circuit breakers  
+
+per gate overrides  
+
+
+note system / notes  
+
+quicklinks  
+
+clutch additions - working with rdd  
+
+oncall  
+Jira tickets / responding to feedback, making slides  
+
+decided to not add frontend config extensions  
+metrics configs/extensions for prometheus etc  
+
+Sev fixing - oncall docs, more tests, etc, codecov

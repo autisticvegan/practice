@@ -1,7 +1,5 @@
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
-IMPORTANT
-
 ## Volunteering for stuff (DEATH TO TECH DEBT)
 ### Situation:
 - Many times, situations come up that are not well-defined nor owned by a specific team. They require volunteers to "make it happen". Examples of this were the L5 deprecation, Python Migration, and PromQL Migrations.
@@ -39,7 +37,6 @@ IMPORTANT
 
 ### 5 Whys:
 - What other alternatives are there to PromQL? Its industry standard, and its always better to move towardrs industry standards. This reduces onboarding time and TTR.
-- 
 
 ### Q&A:
 - What would have happened if you didn't do this? There would have been wasted resources but no one would have noticed for a while. Ideally, the acquisition would include a deprecation of resources, but the reality is that sometimes things fall through the cracks, so that's where I come in, I do jobs other people don't want to do (cringe).

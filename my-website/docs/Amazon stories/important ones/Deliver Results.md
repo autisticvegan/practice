@@ -13,7 +13,7 @@ IMPORTANT
 
 - Quickly delivered within a month of starting
 - talk about migration from lyftkube
-- 
+
 ### Reflection:
 
 - 

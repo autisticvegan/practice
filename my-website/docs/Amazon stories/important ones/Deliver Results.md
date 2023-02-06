@@ -1,7 +1,5 @@
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
-IMPORTANT
-
 ## STORY 1: K8s Dash
 ### Situation:
   
@@ -10,12 +8,10 @@ IMPORTANT
 ### Action:
 
 ### Result:
-
 - Quickly delivered within a month of starting
 - talk about migration from lyftkube
 
 ### Reflection:
-
 - 
 
 ### 5 Whys:
@@ -27,10 +23,10 @@ IMPORTANT
 
 ## STORY 2: Adding a link to an internal tool to drive huge user adoption
 ### Situation:
-There are 2 internal tools for this situation at Lyft, one for deploys, and one for infrastructure 
+- There are 2 internal tools for this situation at Lyft, one for deploys, and one for infrastructure 
 
 ### Task:
-Grow DAU, MAU, etc for tool because OKRs measured it. The idea is that the more useful the tool is, the more users would use it, as a total of Lyft's engineering population. There is also the idea of re-using work as much as possible and as wide as possible for maximum possible benefit.
+- Grow DAU, MAU, etc for tool because OKRs measured it. The idea is that the more useful the tool is, the more users would use it, as a total of Lyft's engineering population. There is also the idea of re-using work as much as possible and as wide as possible for maximum possible benefit.
 
 ### Action:
 - Added a link to one tool from another.
@@ -45,8 +41,10 @@ The reality is that there was no significant obstacles.
 ### Reflection:
 - A lot of people won't read emails or slack messages, which is understandable
 - Sometimes small things can have huge impact - try to go for 100x bets, as Bezos would say.
+- Sometimes there is a hard way and an easy way to do something. Always be on the lookout for an easier way to do it - really break down into the nitty gritty details what your metrics are and how you get there. No handwaving allowed.
 
 ### 5 Whys:
 - 
 
 ### Q&A:
+- 

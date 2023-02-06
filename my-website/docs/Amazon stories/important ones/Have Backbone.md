@@ -25,6 +25,4 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 - uwu
 
 If you know something is going to work, you aren’t taking enough risk
-70% is optimal knowledge level - -100x bets
-
-configs
+70% is optimal knowledge level

@@ -16,7 +16,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 - Hundreds of dashboards / alarms were migrated. There was some automation involved as well (which could be used by others)
 - Look at others for patterns, read the docs about all of it
 - Scan for unused resources, but requires some manual intervention (i.e. k8s reosources)
-- Ruthlessly prioritize to keep the main projects moving forward along with the volunteer projects.
+- Ruthlessly prioritize to keep the main projects moving forward along with the volunteer projects. (use the eisenhower matrix)
 
 ### Result:
 - Raise awareness of team and work (helpful for XFN future)

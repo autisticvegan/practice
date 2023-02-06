@@ -1,7 +1,7 @@
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 - Remember, this is kind of opposite to Bias For Action.
 
-## STORY 1: Notes System
+## Notes System
 ### Situation:
 - I noticed a common feedback theme for workflows in C was users needing more information or being confused about what things meant. I could have just added a docs link to each page, but I wanted to come up with a better solution.
   
@@ -23,7 +23,7 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 ### Q&A:
 - uwu
 
-## STORY 2: Interview Overhaul
+## Interview Overhaul
 ### Situation:
 - The interview system at L had not been improved in almost 10 years. It needed a lot of improvements.
   

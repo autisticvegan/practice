@@ -1,6 +1,6 @@
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
-## STORY 1: K8s Dash
+## K8s Dash
 ### Situation:
   
 ### Task:
@@ -21,7 +21,7 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 ### Q&A:
 
 
-## STORY 2: Adding a link to an internal tool to drive huge user adoption
+## Adding a link to an internal tool to drive huge user adoption
 ### Situation:
 - There are 2 internal tools for this situation at Lyft, one for deploys, and one for infrastructure 
 

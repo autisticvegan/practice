@@ -1,4 +1,4 @@
-- learn and be curious - talk about automated fe testing
+- finish stories
 - go through the training materials 1 las time
 - go through stories and add more numbers
 

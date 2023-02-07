@@ -21,6 +21,7 @@ Leaders expect and require innovation and invention from their teams and always 
 - Did research and figured out that the current offerings didn't really make sense for current project
 
 ### Action:
+- The use case existed in a space not covered by libraries, a middle ground between graphing/charting on one side and on the other event time lines / historical views. The Y-axis did not really have a use case - it also needed to be able to be merged or customized. Zooming was also useful.
 - At first, tried to contribute to upstream, but they were too slow, so forked and went faster
 - Encountered some weird state management bugs, but eventually fixed them with persistence
 - 

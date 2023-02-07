@@ -16,6 +16,7 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 - 
 
 ### Reflection:
+- If you know something is going to work, you aren’t taking enough risk, 70% is optimal knowledge level
 - 
 ### 5 Whys:
 - uwu
@@ -24,5 +25,26 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 ### Q&A:
 - uwu
 
-If you know something is going to work, you aren’t taking enough risk
-70% is optimal knowledge level
+
+
+## State Management
+### Situation:
+-
+  
+### Task:
+- 
+
+### Action:
+- 
+
+### Result:
+- 
+
+### Reflection:
+- 
+### 5 Whys:
+- uwu
+- 
+
+### Q&A:
+- uwu

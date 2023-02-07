@@ -65,7 +65,7 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 - What was the scalability of this system? - it didn't matter since its less than 1 QPS. However it can easily scale to a very large number of services (think about ingestion of aggrefest). There are also built in mechanisms for when external APIs fail.
 - Did this system use a database? - Yes, audit logs, topocache
 
-## DASH  
+## DASH (Feed 2 birds with one scone)
 
 ### Situation:
 - Service Engineers often have a lot of cognitive load and need to merge information quickly when dealing with incidents and monitoring. There are many diverse systems that have to look at - Pagerduty, Grafana, Kibana, Slack, Github, deploy systems, etc. 

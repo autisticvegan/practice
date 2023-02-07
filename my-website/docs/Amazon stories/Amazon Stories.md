@@ -19,7 +19,7 @@ All situations are strictly hypothetical in nature and may or may not have happe
 - 2 -> bias for action, deliver results
 - 3 -> OWNERSHIP, customer obsession, delivery results
 - 4 -> deliver results, dive deep / bias for action
-- 5 -> invent and simplify, customer obsession
+- 5 -> invent and simplify, customer obsession (dash hehe)
 - 6 -> Have backbone, ownership
 - 7 -> Have Backbone, Insist on the highest standards, ownership?
 - 8 -> insist on the highest standards, dive deep

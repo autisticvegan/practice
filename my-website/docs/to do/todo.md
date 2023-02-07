@@ -1,9 +1,6 @@
 - go through the training materials 1 las time
 - go through stories and add more numbers
-- more sys design?
 - above and beyond
-- 
-
 
 - Questions still to answer:
 - Why does location and date matter? Or do they? How specific should this be? company name? geography? ????
@@ -25,3 +22,10 @@ clutch additions - working with rdd  (intern liason)
 Jira tickets / responding to feedback, making 
 decided to not add frontend config extensions  
 Sev fixing - oncall docs, more tests, etc, codecov
+
+# losing replays
+- Palantir
+- Anduril
+- Cashapp
+- dX/dY
+- ByteDance

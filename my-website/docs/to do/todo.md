@@ -1,6 +1,4 @@
-- go through the training materials 1 las time
-- go through stories and add more numbers
-- above and beyond
+- add actual dau / mau data points
 
 - Questions still to answer:
 - Why does location and date matter? Or do they? How specific should this be? company name? geography? ????

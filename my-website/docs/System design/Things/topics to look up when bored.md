@@ -2,7 +2,8 @@ Topics
 
 Topics that companies are looking for:
 
-- t
+- browser plugins
+- clipboard management
 - Edge Computing
 - Quantum Computing
 - Blockchain / Smart Contract Auditing / Testing

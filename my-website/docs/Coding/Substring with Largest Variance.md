@@ -1,5 +1,5 @@
-# 2272 Substring with largest variance
-
+# Substring with largest variance
+- Lc 2272
 `
 The variance of a string is defined as the largest difference between the number of occurrences of any 2 characters present in the string. Note the two characters may or may not be the same.
 

@@ -21,7 +21,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 ### Result:
 - Raise awareness of team and work (helpful for XFN future)
 - No more wasted resources (save $$$)
-- No more reliance on wavefront, which helps in SEV situations - metrics are now more available without lag and reliable.
+- No more reliance on wavefront, which helps in SEV situations - metrics are now more available without lag (minutes) and reliable (present).
 - Its important to upgrade libraries and use modern versions - this is reducing technical debt. The worst situation is when there is "append-only" code which nobody wants to touch because its brittle.
 - Got a badge on my profile :), and migration ran smoothly
 - Even being on leave for 3 months I still had more tickets completed according to JIRA for 2022

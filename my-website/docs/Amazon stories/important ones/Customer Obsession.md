@@ -65,7 +65,7 @@ REDACTED is the next generation interface for L engineers to manage their projec
 - What was the scalability of this system? - it didn't matter since its less than 1 QPS. However it can easily scale to a very large number of services (think about ingestion of aggrefest). There are also built in mechanisms for when external APIs fail.
 - Did this system use a database? - Yes, audit logs, topocache
 
-## DASH (Feed 2 birds with one scone)
+## dashboard (Feed 2 birds with one scone)
 
 ### Situation:
 - Service Engineers often have a lot of cognitive load and need to merge information quickly when dealing with incidents and monitoring. There are many diverse systems that have to look at - Pagerduty, Grafana, Kibana, Slack, Github, deploy systems, etc. 
@@ -77,7 +77,7 @@ REDACTED is the next generation interface for L engineers to manage their projec
 - Design
 - Spec Writing
 - Timeline view
-- FE - cross links scattered everywhere
+- FE - cross links scattered everywhere, think about error handling in the case something (external or internal) is not working
 - BE - interface with APIs, manifest stuff, other upgrades for systems
 - github cdn? 
 - documentation, guides for platform etc
@@ -87,6 +87,7 @@ REDACTED is the next generation interface for L engineers to manage their projec
 - used by almost half of population throughout a month
 - value from the exploratory aspect as well as the incident aspect
 - cannot really measure cognitive load, but can measure user happiness
+- Think about the different perspectives of incident triage vs service exploration
 
 ### Reflection:
 - What could be improved? Reaching out to maintainers of OS libraries (to uncover issues earlier)

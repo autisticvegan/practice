@@ -2,14 +2,19 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 
 ## K8s Dash
 ### Situation:
-  
+- engineers needed a better interface than kubectl
+
 ### Task:
+- build it
 
 ### Action:
+- FE, BE, open-source, protobufs, docs, links everywhere, announcment comms, 
 
 ### Result:
 - Quickly delivered within a month of starting
 - talk about migration from l-kube
+- added metrics to l-kube to track this, and made sure to redirect when possible
+- autocomplete was tricky but it was do-able for the main use cases without performance issues
 
 ### Reflection:
 - 

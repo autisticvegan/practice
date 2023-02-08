@@ -15,7 +15,7 @@ Leaders expect and require innovation and invention from their teams and always 
 
 ## Using libraries for things like Timeline Charting (weak)
 ### Situation:
-- 
+- D needed a timeline
 
 ### Task:
 - Build a view that ties together the API events coming from the BE and allows developers to map out potential relationships between them
@@ -32,6 +32,7 @@ Leaders expect and require innovation and invention from their teams and always 
 ### Result:
 - Many people used it and were happy
 - Think about the fact that the less people that use it the better - that means there's less incidents
+- concept later reused in other projects
 
 ### Reflection:
 - Forks are important, or at least the activity/speed of an external library

@@ -2,7 +2,7 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 talk about building clutch - resolver / config upgrades vs other things - note system, focus more on a platform, not saving clicks or typing
 
-## State Management
+## State Management (weaker)
 ### Situation:
 -
   
@@ -27,21 +27,26 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 
 
 
-## State Management
+## Rollback rotate (stronger)
 ### Situation:
--
+- Deploy system aging.
+- There are no automatic rollbacks. That is painful.
   
 ### Task:
-- 
+- Fix the pain point.
 
 ### Action:
+- Rotate after discussion, specs, user research.
+- BE - api's, elig, opts, deploy system upgrades, and passthroughs for other thingns
 - 
 
 ### Result:
-- 
+- Committed fully after deciding to pivot.
 
 ### Reflection:
-- 
+- Sometimes pivoting is necessary. Its important to be flexible.
+
+
 ### 5 Whys:
 - uwu
 - 

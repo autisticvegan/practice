@@ -9,13 +9,21 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 - I made a notes system 
 
 ### Action:
-- 
+- experiment with config files
+- come up with solution to store notes there
+- make system to display notes across workflows
+- use the notepanel material ui elements, different levels
+- split between open source vs not
+- a system where others can contribute too (since other teams own other flows)
+- allow for links
 
 ### Result:
-- 
+- people like it, less tickets, positive feedbacks
+- default options are great
 
 ### Reflection:
-- 
+
+
 ### 5 Whys:
 - uwu
 - 
@@ -25,19 +33,26 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 
 ## Interview Overhaul
 ### Situation:
-- The interview system at L had not been improved in almost 10 years. It needed a lot of improvements.
+- The interview system at L had not been improved in almost 10 years. It needed a lot of improvements. questions leaked, no split between FE and BE and DE etc
   
 ### Task:
-- 
+- Rethink, evolve the system
 
 ### Action:
-- 
+- new questions
+- new site for onboarding
+- new studyguides
+- working groups, organizing and networking
+- designated PoCs
+- make it count for perf review / promo packets
 
 ### Result:
-- 
+- positive feedback
 
 ### Reflection:
-- 
+- all about delegating and getting people to agree on the vision
+
+
 ### 5 Whys:
 - 
 

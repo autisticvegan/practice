@@ -8,13 +8,20 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 - build it
 
 ### Action:
-- FE, BE, open-source, protobufs, docs, links everywhere, announcment comms, 
+- FE, BE, open-source, protobufs, docs, links everywhere, announcment comms, k8s apis, figure out facets,
+- feedbacks, metrics
+- could take actions from it - required deeplinks
+- sorting, data layouts, split between pods and facets
+- required some changes from normal "workflow"
+- reminder that auth and stuff comes out of the box
 
 ### Result:
 - Quickly delivered within a month of starting
 - talk about migration from l-kube
 - added metrics to l-kube to track this, and made sure to redirect when possible
 - autocomplete was tricky but it was do-able for the main use cases without performance issues
+- people liked it, hundreds of users
+- components and lessons reused elsewhere (i.e. autocomplete)
 
 ### Reflection:
 - 

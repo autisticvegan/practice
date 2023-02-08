@@ -35,7 +35,7 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 ### Action:
 - Rotate after discussion, specs, user research.
 - BE - api's, elig, opts, deploy system upgrades, and passthroughs for other thingns
-- 
+- xfn efforts with k8s teams
 
 ### Result:
 - Committed fully after deciding to pivot.

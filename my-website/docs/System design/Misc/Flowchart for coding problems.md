@@ -1,3 +1,4 @@
+## Flowchart for coding problems
 Questions to ask:
 
 - What is the intuition (dp? greedy? math? graph? invert? patterns?) 

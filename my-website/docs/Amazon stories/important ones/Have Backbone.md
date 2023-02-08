@@ -46,7 +46,6 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 ### Reflection:
 - Sometimes pivoting is necessary. Its important to be flexible.
 
-
 ### 5 Whys:
 - uwu
 - 

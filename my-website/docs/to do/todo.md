@@ -1,4 +1,7 @@
 - add actual dau / mau data points
+- design parking lot - fetch car, park car, structs should be parkinglot, parkingticket, car, space
+- tell about a time you were INNOVATIVE (yikes)
+- tell about a time you went DEEP (whoaaaaaaa pffffffff)
 
 - Questions still to answer:
 - Why does location and date matter? Or do they? How specific should this be? company name? geography? ????
@@ -20,6 +23,11 @@ clutch additions - working with rdd  (intern liason)
 Jira tickets / responding to feedback, making 
 decided to not add frontend config extensions  
 Sev fixing - oncall docs, more tests, etc, codecov
+
+# experiences
+- path sum 1, path sum 2
+- make a parking lot
+
 
 # losing replays
 - Palantir

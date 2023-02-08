@@ -20,6 +20,8 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 ### Result:
 - people like it, less tickets, positive feedbacks
 - default options are great
+- instead of a few questions a week, now less
+- 
 
 ### Reflection:
 
@@ -45,6 +47,9 @@ Leaders operate at all levels, stay connected to the details, audit frequently, 
 - working groups, organizing and networking
 - designated PoCs
 - make it count for perf review / promo packets
+- look at what others are doing
+- Save thousands for a more efficient interview process
+- contracts?
 
 ### Result:
 - positive feedback

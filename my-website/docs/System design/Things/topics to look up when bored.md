@@ -2,6 +2,7 @@ Topics
 
 Topics that companies are looking for:
 
+- t
 - Edge Computing
 - Quantum Computing
 - Blockchain / Smart Contract Auditing / Testing

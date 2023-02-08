@@ -55,14 +55,14 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 - Extracted the components into a library which can be used by other tools, all they need is a db
 
 ### Result:
-- nps / csat score used in OKRs
+- nps / csat score used in OKRs (> 80)
 - Components reused in other areas
-- hundreds of feature requests fulfilled (highest number of tickets completed)
+- hundreds of feature requests fulfilled ~100 (highest number of tickets completed)
 
 ### Reflection:
 - Why not use qualtrics or something similar? Cost, complexity, sometimes building for scratch can be a better fit for your exact use-case rather than a solution which fits many use-cases.
 - all about the data
-- Next step would be apps or browser extensions with things like notification support, survey support, etc
+- Next step would be apps or browser extensions (think about code injection) with things like notification support, survey support, etc
 - Tricky to get the UX right - don't want to be intrusive, but do want to gather data i.e. popups are painful
 
 ### 5 Whys:
@@ -71,7 +71,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 
 ## Spelling Error On Website (weak)
 ### Situation:
-- I noticed a spelling error on a public facing Lyft website for safety. It had been there for years and apparently no one else cared.
+- I noticed a spelling error on a public facing L website for safety. It had been there for years and apparently no one else cared.
   
 ### Task:
 - Fix it.
@@ -80,7 +80,7 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 - I started by searching around in github repositories (using sourcegraph and github code search) trying to find the site. This came up fruitless. I next tried searching through the AWS buckets but that was difficult as there was over 50 PB of data and it was hard to find. So eventually after searching around I started contacting people. Most people weren't sure who to contact, but eventually after being persistent I found some people that were in charge of the Contentful system and could update it.
 
 ### Result:
-- Lyft looks more professional. This spelling error was also highly visible because it was replicated in metadata, which led to it being displayed everytime someone shared a tweet or any kind of social media which utilized the metadata. This wasn't my responsibility at all but I took ownership because that was the right thing to do.
+- L looks more professional. This spelling error was also highly visible because it was replicated in metadata, which led to it being displayed everytime someone shared a tweet or any kind of social media which utilized the metadata. This wasn't my responsibility at all but I took ownership because that was the right thing to do.
 
 ### Reflection:
 - Its all about knowing who is in charge of what so things can be quickly fixed.

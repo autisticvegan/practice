@@ -9,7 +9,7 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 
 ### Result:
 - Quickly delivered within a month of starting
-- talk about migration from lyftkube
+- talk about migration from l-kube
 
 ### Reflection:
 - 
@@ -20,13 +20,12 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 
 ### Q&A:
 
-
 ## Adding a link to an internal tool to drive huge user adoption
 ### Situation:
-- There are 2 internal tools for this situation at Lyft, one for deploys, and one for infrastructure 
+- There are 2 internal tools for this situation at L, one for deploys, and one for infrastructure 
 
 ### Task:
-- Grow DAU, MAU, etc for tool because OKRs measured it. The idea is that the more useful the tool is, the more users would use it, as a total of Lyft's engineering population. There is also the idea of re-using work as much as possible and as wide as possible for maximum possible benefit.
+- Grow DAU, MAU, etc for tool because OKRs measured it. The idea is that the more useful the tool is, the more users would use it, as a total of L's engineering population. There is also the idea of re-using work as much as possible and as wide as possible for maximum possible benefit.
 
 ### Action:
 - Added a link to one tool from another.

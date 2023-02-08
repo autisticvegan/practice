@@ -11,12 +11,12 @@ Leaders are never done learning and always seek to improve themselves. They are 
 ### Action:
 - Make the scripts that do the testing
 - Basically use the Playwright (FKA Puppeteer) API and docs to figure it out.
-- One reason why this wasn't the best approach was that things were always evolving. This is more about smoke tests than unit tests. Unit Test Pyramid.
+- One reason why this wasn't the best approach was that things were always evolving. This is more about smoke tests than unit tests. Unit Test Pyramid. So storybook is the answer!
 - Had to get auth tokens (needed a little non-code work)
 
 ### Result:
 - Nowadays with more modern versions of React, RTL, and better versions of material this automated testing is no longer necessary. It was a nice project though.
-- Can now autodeploy, saving engineer minutes every day.
+- Can now autodeploy, saving engineer minutes every day. AUtomation is great
 
 ## Intern project
 
@@ -34,8 +34,10 @@ Leaders are never done learning and always seek to improve themselves. They are 
 - Added a workflow using protobufs, react, and golang
 - Implemented the function createRepository along with helper functions (i.e. commenting on a PR)
 - Made some tests and stuff
+- dashboards, metrics for monitoring etc
 
 ### Result:
 - People can now use Clutch to create new repositories
 Learned a lot about React.js, protobufs and Golang
+- open source is great
 - Why not use backstage? Backstage is a somewhat different use case

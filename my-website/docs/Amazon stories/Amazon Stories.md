@@ -13,6 +13,7 @@ All situations are strictly hypothetical in nature and may or may not have happe
 7. Tell me about a time you wouldn’t compromise on achieving a great outcome when others felt something was good enough. What was the situation?
 8. Tell me about a time you made a hard decision to sacrifice short term gain for a longer term goal.
 9. Tell me about a time when you realized you needed to have a deeper level of subject matter expertise to complete your assignment or task well.
+10. Tell about a time you went above and beyond.
 
 # Mapping:
 - 1 -> Customer Obsession, learn and be curious
@@ -24,7 +25,7 @@ All situations are strictly hypothetical in nature and may or may not have happe
 - 7 -> Have Backbone, Insist on the highest standards, ownership?
 - 8 -> insist on the highest standards, dive deep
 - 9 -> Learn & B curious, dive deep
-
+- 10 -> Customer Obsession, Dive Deep
 
 Note there is no `Frugality` in the list.
 

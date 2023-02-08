@@ -1,9 +1,9 @@
 Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.  
 
-## Project Catalog (strong one)
+## P Catalog (strong one)
 ### Situation:
 Services follow a lifecycle.
-REDACTED is the next generation interface for Lyft engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. Project Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure.  It is also important to keep open source in mind, since other companies are interested such as Microsoft, Mercari, VW, and Expedia.
+REDACTED is the next generation interface for L engineers to manage their projects, enabling fast, efficient, and secure delivery of code and configuration to production. P Catalog is the foundation of REDACTED, allowing engineers to view project details in a single place, with the goal of making the service lifecycle updates fast, efficient, and secure.  It is also important to keep open source in mind, since other companies are interested such as Microsoft, Mercari, VW, and Expedia.
 
 - Risk and Conseq if nothing happened: developers waste time and leave company, even saving minutes is valuable
 - Why did I choose this story: IT has a focus on end users
@@ -76,11 +76,17 @@ REDACTED is the next generation interface for Lyft engineers to manage their pro
 ### Action:
 - Design
 - Spec Writing
-- //think about timeline view
-- Timeline view - 
+- Timeline view
+- FE - cross links scattered everywhere
+- BE - interface with APIs, manifest stuff, other upgrades for systems
+- github cdn? 
+- documentation, guides for platform etc
 
 ### Result:
 - "Makes me want to own more services" - an engineer
+- used by almost half of population throughout a month
+- value from the exploratory aspect as well as the incident aspect
+- cannot really measure cognitive load, but can measure user happiness
 
 ### Reflection:
 - What could be improved? Reaching out to maintainers of OS libraries (to uncover issues earlier)

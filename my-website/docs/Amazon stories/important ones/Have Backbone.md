@@ -20,12 +20,9 @@ talk about building clutch - resolver / config upgrades vs other things - note s
 - 
 ### 5 Whys:
 - uwu
-- 
-
+  
 ### Q&A:
 - uwu
-
-
 
 ## Rollback rotate (stronger)
 ### Situation:

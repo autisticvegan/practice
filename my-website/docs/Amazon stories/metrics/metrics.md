@@ -1,0 +1,4 @@
+- deployview - about 800 usuers per month, average 15 min, 100k events
+- feedbacks - about 30 per 90 days
+- rollbacks - 15 per day
+- clutch - WAU - 400, MAU - 700

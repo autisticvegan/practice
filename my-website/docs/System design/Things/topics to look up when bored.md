@@ -2,6 +2,7 @@ Topics
 
 Topics that companies are looking for:
 
+- how do splunk, datadog, etc add to log files? how is ai used (i.e. pagerduty) to diagnose app vs infra issues?
 - compiler engineering
 - browser plugins
 - clipboard management

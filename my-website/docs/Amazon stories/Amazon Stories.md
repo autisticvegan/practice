@@ -3,6 +3,11 @@
 # Disclaimer:  
 All situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken necessarily as matter of fact. Project names, company names, any names, may also be sometimes replaced with REDACTED or random letters.
 
+# What to Focus On:
+- Try to focus on technical rather than non-technical stories (scaling, latency, QPS, users, or technical specifications).
+- Try to focus on projects that took weeks or a couple months max - stories that are too long horizon or too short can be harder for interviewers to understand.
+- Display your curiosity in the stories, drive home the point that you are a junkyard dog.
+
 # Example Behavioral Questions:
 1. Tell me about a time where you sought out perspectives other than your own to make a product/service/project/assignment better.
 2. Tell me about a time when you had to analyze facts quickly, define key issues, and respond immediately to a situation. What was the outcome?

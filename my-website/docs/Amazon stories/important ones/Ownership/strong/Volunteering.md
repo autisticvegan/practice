@@ -1,6 +1,8 @@
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
 ## Volunteering for stuff (DEATH TO TECH DEBT)
+- This story could also be split into 3 if you really want to drag it out.
+
 ### Situation:
 - Many times, situations come up that are not well-defined nor owned by a specific team. They require volunteers to "make it happen". Examples of this were the L5 deprecation, Python Migration, and PromQL Migrations.
 
@@ -40,53 +42,3 @@ Leaders are owners. They think long term and don’t sacrifice long-term value f
 
 ### Q&A:
 - What would have happened if you didn't do this? There would have been wasted resources but no one would have noticed for a while. Ideally, the acquisition would include a deprecation of resources, but the reality is that sometimes things fall through the cracks, so that's where I come in, I do jobs other people don't want to do (cringe).
-
-## Feedback Tickets
-### Situation:
-- A lot of the feedback and feature requests were coming in through various formats - slack, email, dm's, jira ticket bug reports, etc. There needed to be a way to organize this better and have it a better experience than forcing users to open new jira tickets.
-
-### Task:
-- Need an organized way to collect feedback about an internal tool
-
-### Action:
-- BE - saving to db, where mode reports can be made, jira integration, validation, protobufs for things like metadata and enums
-- FE - reusable components, input box, make sure its styled correctly, icons get bigger (could animate but decided against it)
-- working with designer for icons (emojis svg from png)
-- Extracted the components into a library which can be used by other tools, all they need is a db
-
-### Result:
-- nps / csat score used in OKRs (> 80)
-- Components reused in other areas
-- hundreds of feature requests fulfilled ~100 (highest number of tickets completed)
-
-### Reflection:
-- Why not use qualtrics or something similar? Cost, complexity, sometimes building for scratch can be a better fit for your exact use-case rather than a solution which fits many use-cases.
-- all about the data
-- Next step would be apps or browser extensions (think about code injection) with things like notification support, survey support, etc
-- Tricky to get the UX right - don't want to be intrusive, but do want to gather data i.e. popups are painful
-
-### 5 Whys:
-
-### Q&A:
-
-## Spelling Error On Website (weak)
-### Situation:
-- I noticed a spelling error on a public facing L website for safety. It had been there for years and apparently no one else cared.
-  
-### Task:
-- Fix it.
-
-### Action:
-- I started by searching around in github repositories (using sourcegraph and github code search) trying to find the site. This came up fruitless. I next tried searching through the AWS buckets but that was difficult as there was over 50 PB of data and it was hard to find. So eventually after searching around I started contacting people. Most people weren't sure who to contact, but eventually after being persistent I found some people that were in charge of the Contentful system and could update it.
-
-### Result:
-- L looks more professional. This spelling error was also highly visible because it was replicated in metadata, which led to it being displayed everytime someone shared a tweet or any kind of social media which utilized the metadata. This wasn't my responsibility at all but I took ownership because that was the right thing to do.
-
-### Reflection:
-- Its all about knowing who is in charge of what so things can be quickly fixed.
-
-### 5 Whys:
-- uwu
-
-### Q&A:
-- uwu

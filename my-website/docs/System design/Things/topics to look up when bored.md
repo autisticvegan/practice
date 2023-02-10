@@ -2,6 +2,7 @@ Topics
 
 Topics that companies are looking for:
 
+- compiler engineering
 - browser plugins
 - clipboard management
 - Edge Computing

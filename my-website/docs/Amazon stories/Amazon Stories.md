@@ -1,4 +1,4 @@
-# Amazon Stories
+Amazon Stories
 
 # Disclaimer:  
 All situations are strictly hypothetical in nature and may or may not have happened in the real universe. Any details may have been changed including but not limited to names, responsibilities, jurisdictions, contributions, technologies, and anything else. These stories are not to be taken necessarily as matter of fact. Project names, company names, any names, may also be sometimes replaced with REDACTED or random letters.

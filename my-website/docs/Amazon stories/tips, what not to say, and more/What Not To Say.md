@@ -31,14 +31,13 @@ Taken from Scarlet Ink is the following excerpts from real interviews that were 
 > How do you manage your top performers differently?  
 > I don't. I think everyone deserves equal treatment. I think everyone is great in their own way.  
 
-Note I think this case is contreversial, but apparently at Amazon they want to focus on top performers, so it is important to give them MORE attention and the low performers less attention.  
+Note I think this case is controversial, but apparently at Amazon they want to focus on top performers, so it is important to give them MORE attention and the low performers less attention.  
 
  ### Red flags according to Amazon
-`
+
 1. Blame others
 2. Not sincere
 3. Negative, boring people
 4. Did not take their principles seriously
 5. Cannot communicate fluently
 6. Talk about competitors instead if customers
-`

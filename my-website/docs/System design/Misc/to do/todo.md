@@ -6,15 +6,12 @@
 ### Questions still to answer:
 
 ### do
-- Take deep dives and tech talks and convert them into stories - remember this process is about psychopathy not about empathy.
-
 - Deep Dives:
 - Talent
 - Infrastructure Management
 - Platform building
 - Deploys
 - APIs / Github rate limiting
-
 - Design proximity based service
 
 c additions - working with rdd  (intern liasonn)

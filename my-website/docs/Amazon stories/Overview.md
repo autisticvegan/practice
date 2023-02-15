@@ -100,3 +100,4 @@ Results:
 - How would you implement this at Amazon?
 - How did these results compare to your actual goals? (tie it back to goals stated in Situation)
 
+Clear problem statement, different solutions, follow ups, system to "measure" results, and ideas to improve further.

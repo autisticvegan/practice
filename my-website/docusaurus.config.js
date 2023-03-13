@@ -65,6 +65,24 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+      // The application ID provided by Algolia
+      appId: 'XSXTUK571U',
+
+      // Public API key: it is safe to commit it
+      apiKey: 'f9e81b0a33611d402b44ebbbb1f3e96c',
+
+      indexName: 'train-harder',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+      }
     }),
 };
 

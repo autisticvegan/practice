@@ -6,4 +6,4 @@ slug: /
 ---
 # Train Harder
 
-This site is here to practice for interviews. Algolia search has been approved and will be implemented in the next few days.
+This site is here to practice for interviews. Shoutouts to Algolia for providing search.
